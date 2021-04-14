@@ -9,9 +9,9 @@ Read the document until the end to some tips :D.
 <h2> What i expect from you to learn with this challenge::</h2><BR>
 
 <li>Events.<BR></li>
-<li>.Dom(document manipulation).</li>
-<li>.Function. <BR></li>
-<li>.Some cool things on css.</li>
+<li>Dom(document manipulation).</li>
+<li>Function. <BR></li>
+<li>Some cool things on css.</li>
 
 </ul>
 
@@ -25,13 +25,13 @@ Read the document until the end to some tips :D.
 
 
 <h2>Tips<br></h2>
-.the nactive function in javascript called eval can be your best friend to make the result work.<br>
-.If you have any doubt send me a message on twitter:@vic__carvalho.
+<li>the nactive function in javascript called eval can be your best friend to make the result work</li>
+<li>If you have any doubt send me a message on twitter:@vic__carvalho</li>
 
 
 <h2>Considerations<br></h2> 
-.Don't limit the choice of tools or any libraries if you want it .<br>
-.Send-me your best solutions.
+<li>Don't limit the choice of tools or any libraries if you want it<br></li>
+<li>Send-me your best solutions</li>
 
 
    
