@@ -17,7 +17,8 @@ What we expect from you to learn with this challenge:<BR>
 
 
 How need look like:  
-![image](https://user-images.githubusercontent.com/62306118/114689980-a76bb200-9cec-11eb-8c39-c94519a43645.png)
+![image](https://user-images.githubusercontent.com/62306118/114690206-dc780480-9cec-11eb-85ce-31f16f2afff6.png)
+
 
 
 
