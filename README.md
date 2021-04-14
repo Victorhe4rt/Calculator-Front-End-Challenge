@@ -23,7 +23,7 @@ How need look like:
 
 
 Tips<br>
-.the nactive function in javascript called eval can be your best friend to make the result work.
+.the nactive function in javascript called eval can be your best friend to make the result work.<br>
 .If you have any doubt send me a message on twitter:@vic__carvalho.
 
 
