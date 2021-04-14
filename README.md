@@ -1,4 +1,4 @@
-CALCULATOR-front-end challenge 
+<h1>CALCULATOR-front-end challenge </h1>
 
 
 Front-end challenge made by myself just using html,css,javascript.<BR>
