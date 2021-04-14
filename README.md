@@ -9,9 +9,9 @@ Read the document until the end to some tips :D.
 <h2> What i expect from you to learn with this challenge::</h2><BR>
 
 <li>Events.<BR></li>
-.Dom(document manipulation). <BR>
-.Function. <BR>
-.Some cool things on css.<BR>
+<li>.Dom(document manipulation).</li>
+<li>.Function. <BR></li>
+<li>.Some cool things on css.</li>
 
 </ul>
 
