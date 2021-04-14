@@ -29,7 +29,7 @@ Read the document until the end to some tips :D.
 
 
 <h2>Tips<br></h2>
-<li>the nactive function in javascript called eval can be your best friend to make the result work</li>
+<li>the nactive function in javascript called "eval" can be your best friend to make the result work</li>
 <li>If you have any doubt send me a message on twitter:@vic__carvalho</li>
 
 
