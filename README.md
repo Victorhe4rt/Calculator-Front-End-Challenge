@@ -5,7 +5,7 @@ Front-end challenge made by myself just using html,css,javascript.<BR>
 Read the document until the end to some tips :D.
 
 
-  About the challenge
+About the challenge:
 
 
 What we expect from you to learn with this challenge:<BR>
@@ -28,7 +28,7 @@ Tips<br>
 
 
 Considerations<br>
-.Don't limit the choice of tools or any libraries if you want it .
+.Don't limit the choice of tools or any libraries if you want it .<br>
 .Send-me your best solutions.
 
 
