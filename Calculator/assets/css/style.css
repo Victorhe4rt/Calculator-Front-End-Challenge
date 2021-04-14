@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Zen Dots', cursive;
+  
+}
+body{
+  background-color: #f5f2c4;
+}
+
+.calculator{
+  margin:auto;
+  border-color:  #3b3b3b;
+  height: 420px;
+  width: 400px;
+  margin-top:20px;
+  background-color: #9e9e9d;
+  border-radius:5px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.example{
+  width: 382px;
+  margin:auto;
+}
+.c-format{
+  background-color: cornsilk;
+  border:none;
+  width: 100%;
+  border-radius:4px;
+  transition:0.5s;
+  outline: none; 
+  height: 50px; 
+  margin: auto;
+  margin-top: 3px;
+  border-radius:4px;
+}
+.c-format:hover{
+  background-color: rgba(255, 248, 220, 0.445);
+}
+
+
+.button-formats{
+  background-color: cornsilk;
+  border:none;
+  width:22.3%;
+  transition:0.5s;
+  outline: none;  
+  margin: 3px;
+  height: 70px;
+  border-radius:4px;
+}
+.row{
+  width:390px;
+  margin:auto;
+}
+.button-formats:hover{
+  background-color: rgba(255, 248, 220, 0.445);
+}
+
+
+.result{
+  width: 382px;
+  margin:auto;
+}
+.result-format{
+  background-color: white;
+  border:none;
+  width: 100%;
+  border-radius:4px;
+  outline: none; 
+  height: 55px; 
+  margin: auto;
+  border-radius:4px;
+  font-size: 30px;
+}
+
+
+
+footer{
+ position: absolute;
+ bottom:0;
+}
+
+

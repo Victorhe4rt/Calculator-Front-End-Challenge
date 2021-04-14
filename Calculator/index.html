@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+    <title>Calculadora</title>
+    <meta charset="utf-8"> 
+    <link rel="stylesheet" href="assets/css/style.css"> 
+    
+  </head>
+
+  <body>
+    
+    <div class="calculator">
+      
+      <div class="example">
+        <button type="button" class="c-format" onclick="limpar()" >C</button>
+      </div>
+
+
+      <div  class="row">
+        <button type="button" class="button-formats" onclick="enviar('value','7')">7</button>
+        <button type="button" class="button-formats" onclick="enviar('value','8')">8</button>
+        <button type="button" class="button-formats"onclick="enviar('value','9')">9</button>
+        <button type="button" class="button-formats"onclick="enviar('value','*')">*</button>
+      </div>
+     
+      <div class="row"> 
+      <button type="button" class="button-formats" onclick="enviar('value','4')">4</button>
+      <button type="button" class="button-formats" onclick="enviar('value','5')">5</button>
+      <button type="button"class="button-formats" onclick="enviar('value','6')">6</button>
+      <button type="button" class="button-formats" onclick="enviar('value','-')">-</button>
+      </div>
+
+      
+      <div class="row">
+        <button type="button" class="button-formats" onclick="enviar('value','1')" >1</button>
+        <button type="button" class="button-formats" onclick="enviar('value','2')">2</button>
+        <button type="button" class="button-formats" onclick="enviar('value','3')">3</button>
+        <button type="button" class="button-formats" onclick="enviar('value','+')">+</button>
+      </div>
+
+
+      
+      <div class="row">
+        <button type="button" class="button-formats"onclick="enviar('value','/')">/ </button>
+        <button type="button" class="button-formats" onclick="enviar('value','0')">0</button>
+        <button type="button" class="button-formats" onclick="enviar('value','.')">,</button>
+        <button type="button" class="button-formats" onclick="resultado()" >=</button>
+      </div>
+
+      <div class="result">
+        <input type="text" placeholder="0" disabled="disabled" class="result-format" id="resultado"/>
+      </div>
+
+    </div>
+
+   
+
+
+    <script src="assets/js/script.js"></script>
+
+
+    <footer>
+      Made by:github.com/Victorhe4rt
+    </footer>
+  </body>
+  
+</html>
