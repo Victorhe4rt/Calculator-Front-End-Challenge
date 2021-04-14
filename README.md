@@ -8,7 +8,7 @@ Read the document until the end to some tips :D.
 <h3>About the challenge:</h3>
 
 
-What we expect from you to learn with this challenge:<BR>
+What i expect from you to learn with this challenge:<BR>
 <BR>
 .Events.<BR>
 .Dom(document manipulation). <BR>
