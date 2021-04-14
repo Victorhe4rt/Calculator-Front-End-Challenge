@@ -5,10 +5,6 @@
 Front-end challenge made by myself just using html,css,javascript.<BR>
 Read the document until the end to some tips :D.
 
-
-
-
-
 <h2> What i expect from you to learn with this challenge::</h2><BR>
 
 .Events.<BR>
