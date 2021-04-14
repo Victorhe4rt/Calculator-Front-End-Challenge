@@ -1,14 +1,15 @@
 <h1>CALCULATOR </h1>
 
+<h3>About the challenge:</h3>
 
 Front-end challenge made by myself just using html,css,javascript.<BR>
 Read the document until the end to some tips :D.
 
 
-<h3>About the challenge:</h3>
 
 
-What i expect from you to learn with this challenge:<BR>
+
+<h3> What i expect from you to learn with this challenge::</h3><BR>
 <BR>
 .Events.<BR>
 .Dom(document manipulation). <BR>
