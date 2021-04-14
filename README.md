@@ -18,7 +18,7 @@ Read the document until the end to some tips :D.
 
 
 <h2>How need look like: </h2> 
-![image](https://user-images.githubusercontent.com/62306118/114690206-dc780480-9cec-11eb-85ce-31f16f2afff6.png)
+![image](https://user-images.githubusercontent.com/62306118/114690736-61631e00-9ced-11eb-9206-7f3ab0c13cac.png)
 
 
 
