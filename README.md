@@ -2,7 +2,7 @@
 
 <h3>About the challenge:</h3>
 
-Front-end challenge made by myself just using html,css,javascript.<BR>
+Front-end challenge made by myself just using html,css,javascript.
 Read the document until the end to some tips :D.
 
 <ul>
